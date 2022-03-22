@@ -1,0 +1,1 @@
++ If getting "Failed to initialize CoreCLR, HRESULT: 0x80070057" when debugging Console, set Platform Target to "Any CPU" and then back to "x64".
